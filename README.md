@@ -15,6 +15,13 @@ You can get it from [Bower](http://bower.io/)
 bower install angular-ui-scrollpoint
 ```
 
+Include it via CDN
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/angular@1/angular.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/angular-ui-scrollpoint@2/dist/scrollpoint.min.js"></script>
+```
+
 Load the script files in your application:
 
 ```html
